@@ -1,5 +1,5 @@
 .controller.xbox {
-    background: url(base.png);
+    background: url(yukaiin.github.io/PurpleTriangles/base.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -9,20 +9,20 @@
 .xbox .trigger {
     width: 88px;
     height: 121px;
-    background: url(trigger.png);
+    background: url(yukaiin.github.io/PurpleTriangles/trigger.png);
     opacity: 0;
 }
 
 .xbox .bumper {
     width: 170px;
     height: 61px;
-    background: url(bumper.png);
+    background: url(yukaiin.github.io/PurpleTriangles/bumper.png);
     opacity: 0;
 }
 
 .xbox .button {
     position: absolute;
-    background: url(abxy.png);
+    background: url(yukaiin.github.io/PurpleTriangles/abxy.png);
     width: 48px;
     height: 48px;
 }
@@ -30,14 +30,14 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(stick.png);
+    background: url(yukaiin.github.io/PurpleTriangles/stick.png);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
 }
 
 .xbox .face {
-    background: url(dpad.png);
+    background: url(yukaiin.github.io/PurpleTriangles/dpad.png);
     position: absolute;
     opacity: 0;
 }
